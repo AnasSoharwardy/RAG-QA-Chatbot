@@ -2,6 +2,9 @@
 
 This is an AI-powered **RAG (Retrieval-Augmented Generation) Chatbot** that allows users to upload a PDF and ask natural language questions about its content. It uses **IBM Watsonx LLM**, **Watsonx Embeddings**, **LangChain**, and **ChromaDB**, all wrapped in a simple **Gradio web interface**.
 
+https://github.com/user-attachments/assets/58ceaa9d-a061-4495-84f5-467dc63e1417
+
+
 ---
 
 ## Features
